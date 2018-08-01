@@ -42,12 +42,12 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://34.212.169.67:8081/nexus/content/repositories/orgi/</url>
+        <url>http://54.184.183.145:8081/nexus/content/repositories/orgi/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://34.212.169.67:8081/nexus/content/repositories/snapshot/</url>
+        <url>http://54.184.183.145:8081/nexus/content/repositories/snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
